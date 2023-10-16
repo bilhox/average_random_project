@@ -1,0 +1,4 @@
+pygame-ce
+opencv-python
+ffpyplayer
+numpy
